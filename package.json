@@ -1,5 +1,5 @@
 { "name": "spdx-license-urls",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Provide license name via spdx-licenses, generated license URLs and additional details.",
   "keywords": [
     "license",
@@ -27,7 +27,7 @@
   },
 
   "dependencies": {
-    "spdx-license-exceptions": "^0.0.1",
+    "spdx-license-exceptions": "^0.0.2",
     "spdx-licenses": "^0.0.3"
   },
 

@@ -50,7 +50,9 @@ CLI:
 $ spdx-license-urls -v
 ```
 ```json
-{ "spdxVersion": "1.19" }
+{ "spdxTableVersions": {
+    "licenses": "1.19",
+    "exceptions": "2.5" } }
 ```
 
 ```bash
