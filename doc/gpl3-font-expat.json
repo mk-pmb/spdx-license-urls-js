@@ -1,0 +1,29 @@
+{ "name": "GNU General Public License v3.0 only",
+  "id": "GPL-3.0",
+  "OSIApproved": true,
+  "idUrlArg": "GPL-3.0",
+  "licTextPlainUrl": "http://git.spdx.org/?a=blob_plain;p=license-list.git;hb=HEAD;f=GPL-3.0.txt",
+  "licInfoUrl": "https://spdx.org/licenses/GPL-3.0.html",
+  "licAuthor": {
+    "firstName": null,
+    "lastName": null,
+    "email": null,
+    "blogTitle": null,
+    "blogUrl": null,
+    "websiteTitle": null,
+    "websiteUrl": null,
+    "githubNick": null,
+    "twitterNick": null },
+  "licTextOsiUrl": "https://opensource.org/licenses/GPL-3.0",
+  "licTextAuthoritativeUrl": null,
+  "standardFileHeader": null,
+  "logos": [ {
+      "srcType": "wmcommons",
+      "srcId": "GPLv3_Logo.svg" } ],
+  "wikipediaPageUrlpart": {
+    "de": "GNU_General_Public_License",
+    "en": "GNU_General_Public_License" },
+  "alertnatives": [
+    "Expat" ],
+  "exceptions": [
+    "Font-exception-2.0" ] }
