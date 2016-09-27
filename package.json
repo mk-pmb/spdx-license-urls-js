@@ -1,5 +1,5 @@
 { "name": "spdx-license-urls",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Provide license name via spdx-licenses, generated license URLs and additional details.",
   "keywords": [
     "license",
@@ -21,6 +21,7 @@
   "private": false, "license": "ISC",
 
   "main": "licu.js",
+  "bin": { "spdx-license-urls": "cli.js" },
   "directories": {
     "doc": "doc",
     "test": "test"
